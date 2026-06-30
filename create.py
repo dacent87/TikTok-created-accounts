@@ -1,5 +1,4 @@
 
-
 def m135436d(s):
         indexOf  = s.find("?")
         indexOf2 = s.find("#")
